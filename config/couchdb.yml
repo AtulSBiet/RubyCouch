@@ -1,5 +1,5 @@
 protocol: 'http'                                               
-host: 192.168.2.202                  # VM IP
+host: 54.208.130.57                  # VM IP
 port: 62480                  # VM Port
 prefix: t       # Database Name a/c to prefix and suffix 
 #suffix: production              # Database Name a/c to  prefix and suffix
