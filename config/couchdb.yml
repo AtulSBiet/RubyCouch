@@ -1,4 +1,4 @@
-protocol: 'http'                                               
+protocol: 'https'                                               
 host: 54.208.130.57                  # VM IP
 port: 62480                  # VM Port
 prefix: t       # Database Name a/c to prefix and suffix 
