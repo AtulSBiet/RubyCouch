@@ -1,7 +1,7 @@
 protocol: 'http'                                               
 host:  	192.168.2.53                  # VM IP
-port: 21612                  # VM Port
+port: 53626                  # VM Port
 prefix: t       # Database Name a/c to prefix and suffix 
 #suffix: production              # Database Name a/c to  prefix and suffix
-username: aq3mu42vtp7tzbj9         # User Name
-password: 'au42frpccq0p90r8cq9pems84ijcme42'        # Password
+username: al4u6joox2slsgvy         # User Name
+password: 'asi72zkkn6w683j0tr1ml5j052ts61aj'        # Password
